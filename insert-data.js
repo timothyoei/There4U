@@ -46,10 +46,6 @@ async function insert(text, likes, tags, contact, phone_number) {
 
     // Insert a single document
     const p = col.insertOne(storyDocument);
-
-    return new Promise(resolve => {
-        resolve("resolved");
-    });
 }
 
 async function read(tag) {
@@ -71,10 +67,6 @@ async function read(tag) {
 
     // Print to the console
     console.log(myDoc);
-
-    return new Promise(resolve => {
-        resolve("resolved");
-    });
 }
 
 connect().catch(console.dir);
