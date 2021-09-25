@@ -38,7 +38,6 @@ const MyComponent = () => {
             flex: 1,
             minWidth: '100%'
         }}>
-            <Icon name="rocket" size={30} color="#900" />;
             <BottomNavigation
             navigationState={{ index, routes }}
             onIndexChange={setIndex}
