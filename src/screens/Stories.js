@@ -23,7 +23,7 @@ export default function Stories() {
     return (
         <ScrollView contentContainerStyle={styles.fullContainer}>
             <View style={styles.topContainer}>
-                <Dropdown content={sampleDropdownOptions}/>
+                <Dropdown content={sampleDropdownOptions} message={'I need encouragement with...'}/>
                 {/* TODO: iterate through stories json */}
                 <Story post={sampleStory} />
                 <Story post={sampleStory2} />

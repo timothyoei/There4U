@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
-import { View, Text } from 'react-native';
-import { Button, Menu, Divider } from 'react-native-paper';
+import { View } from 'react-native';
+import { Button, Menu } from 'react-native-paper';
 
-export default function Dropdown({ content }) {
+export default function Dropdown({ content, message }) {
 
     const [visible, setVisible] = useState(false);
     const openMenu = () => setVisible(true);
@@ -18,11 +18,9 @@ export default function Dropdown({ content }) {
                 anchor={
                     <Button 
                         onPress={openMenu}>
-                        I need encouragement with...
+                        {message}
                     </Button>}>
-                <View style={{
-                    flexDirection: 'column'
-                }}>
+                <View> 
                     {content.map(
                         (itemName) => <Menu.Item 
                                         onPress={() => {}}
