@@ -25,7 +25,25 @@ const styles = StyleSheet.create({
     width: '100%',
     maxHeight: '30%',
     borderRadius: 10,
-  }
+  },
+  fixToText: {
+    flexDirection: 'column',
+    justifyContent: 'center',
+    height: '20%',
+    borderRadius: 0,
+  },
+  buttonText: {
+    justifyContent: 'center',
+    fontSize: 50,
+  },
+  title: {
+    height: '20%',
+    backgroundColor: '#fae789',
+    borderRadius: 0,
+    fontSize: 50,
+    padding: 50,
+    textAlign: 'center',
+  },
 });
 
 export default styles;
