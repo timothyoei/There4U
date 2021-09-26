@@ -1,0 +1,65 @@
+{
+    'Anger':{
+        'link': "https://www.mind.org.uk/information-support/types-of-mental-health-problems/anger"
+    }, 'Anxiety':{
+        'link': "https://www.mind.org.uk/information-support/types-of-mental-health-problems/anxiety"
+    },'Bipolar Disorder':{
+        'link': "https://www.mind.org.uk/information-support/types-of-mental-health-problems/bipolar-disorder"
+    }, 'Depression':{
+        'link': "https://www.mind.org.uk/information-support/types-of-mental-health-problems/depression"
+    }, 'Body dysmorphic disorder':{
+        'link': "https://www.mind.org.uk/information-support/types-of-mental-health-problems/body-dysmorphic-disorder-bdd"
+    }, 'Dissociation and dissociative disorders':{
+        'link': "https://www.mind.org.uk/information-support/types-of-mental-health-problems/dissociation-and-dissociative-disorders"
+    }, 'Drugs':{
+        'link': "https://www.mind.org.uk/information-support/types-of-mental-health-problems/drugs-recreational-drugs-alcohol"
+    }, 'Eating problems':{
+        'link': "https://www.mind.org.uk/information-support/types-of-mental-health-problems/eating-problems"
+    }, 'Hearing Voices':{
+        'link': "https://www.mind.org.uk/information-support/types-of-mental-health-problems/hearing-voices"
+    }, 'Hoarding':{
+        'link': "https://www.mind.org.uk/information-support/types-of-mental-health-problems/hoarding"
+    }, 'Hypomania and mania':{
+        'link': "https://www.mind.org.uk/information-support/types-of-mental-health-problems/hypomania-and-mania"
+    }, 'Loneliness':{
+        'link': "https://www.mind.org.uk/information-support/tips-for-everyday-living/loneliness"
+    }, 'Obsessive-Compulsive Disorder':{
+        'link': "https://www.mind.org.uk/information-support/types-of-mental-health-problems/obsessive-compulsive-disorder-ocd"
+    }, 'Anxiety and panic attacks':{
+        'link': "https://www.mind.org.uk/information-support/types-of-mental-health-problems/anxiety-and-panic-attacks"
+    }, 'Paranoia':{
+        'link': "https://www.mind.org.uk/information-support/types-of-mental-health-problems/paranoia"
+    }, 'Personality disorders':{
+        'link': "https://www.mind.org.uk/information-support/types-of-mental-health-problems/personality-disorders"
+    }, 'Phobias':{
+        'link': "https://www.mind.org.uk/information-support/types-of-mental-health-problems/phobias"
+    }, 'Postnatal and Perinatal mental health':{
+        'link': "https://www.mind.org.uk/information-support/types-of-mental-health-problems/postnatal-depression-and-perinatal-mental-health"
+    }, 'Post-traumatic stress disorder':{
+        'link': "https://www.mind.org.uk/information-support/types-of-mental-health-problems/post-traumatic-stress-disorder-ptsd-and-complex-ptsd"
+    }, 'Premenstrual Disphoric Disorder':{
+        'link': "https://www.mind.org.uk/information-support/types-of-mental-health-problems/premenstrual-dysphoric-disorder-pmdd"
+    }, 'Psychosis':{
+        'link': "https://www.mind.org.uk/information-support/types-of-mental-health-problems/psychosis"
+    }, 'Schizoaffective disorder':{
+        'link': "https://www.mind.org.uk/information-support/types-of-mental-health-problems/schizoaffective-disorder"
+    }, 'Schizophrenia':{
+        'link': "https://www.mind.org.uk/information-support/types-of-mental-health-problems/schizophrenia"
+    }, 'Seasonal affective disorder (SAD)':{
+        'link': "https://www.mind.org.uk/information-support/types-of-mental-health-problems/seasonal-affective-disorder-sad"
+    }, 'Self esteem':{
+        'link': "https://www.mind.org.uk/information-support/types-of-mental-health-problems/self-esteem"
+    }, 'Self harm':{
+        'link': "https://www.mind.org.uk/information-support/types-of-mental-health-problems/self-harm"
+    }, 'Sleep problems':{
+        'link': "https://www.mind.org.uk/information-support/types-of-mental-health-problems/sleep-problems"
+    }, 'Stress':{
+        'link': "https://www.mind.org.uk/information-support/types-of-mental-health-problems/stress"
+    }, 'Suicidal Feelings':{
+        'link': "https://www.mind.org.uk/information-support/types-of-mental-health-problems/suicidal-feelings"
+    }, 'Trauma':{
+        'link': "https://www.mind.org.uk/information-support/types-of-mental-health-problems/trauma"
+    }, 'Tardive dyskinesia (TD)':{
+        'link': "https://www.mind.org.uk/information-support/types-of-mental-health-problems/tardive-dyskinesia-td"
+    }
+}
