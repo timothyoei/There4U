@@ -8,7 +8,6 @@ export default function Dropdown({ content }) {
     const openMenu = () => setVisible(true);
     const closeMenu = () => setVisible(false);
 
-
     // TODO: add arrow icon to indicate dropdown
     // TODO: center dropdown
     return (
