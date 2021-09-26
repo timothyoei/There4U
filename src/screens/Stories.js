@@ -8,7 +8,14 @@ const sampleDropdownOptions = ["Item 1", "Item 2", "Item 3"];
 const sampleStory = {
     text: 'I cry myself to sleep every night...WAHAHAHAAHAHAHAHAAHAHAHAHAHAAHAHAHAHAHAHAHAHA',
     numLikes: 5000,
-    postedAgo: "5d"
+    postedAgo: "5d",
+    phoneNumber: "123-456-7890"
+};
+const sampleStory2 = {
+    text: 'I cry myself to sleep every night...WAHAHAHAAHAHAHAHAAHAHAHAHAHAAHAHAHAHAHAHAHAHA',
+    numLikes: 5000,
+    postedAgo: "5d",
+    phoneNumber: ""
 };
 
 export default function Stories() {
@@ -19,7 +26,7 @@ export default function Stories() {
                 <Dropdown content={sampleDropdownOptions}/>
                 {/* TODO: iterate through stories json */}
                 <Story post={sampleStory} />
-                <Story post={sampleStory} />
+                <Story post={sampleStory2} />
             </View>
         </ScrollView>
     );
