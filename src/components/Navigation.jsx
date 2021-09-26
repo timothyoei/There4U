@@ -12,7 +12,7 @@ export default function Navigation() {
     const [routes] = useState([
       { key: 'home', title: 'Home', icon: 'home' },
       { key: 'stories', title: 'Stories', icon: 'book-open-variant' },
-      { key: 'help', title: 'Help', icon: 'plus-circle-outline', color: 'red'},
+      { key: 'help', title: 'Help', icon: 'plus-circle-outline'},
       { key: 'community', title: 'Community', icon: 'account' },
       { key: 'info', title: 'Info', icon: 'information-outline' }
     ]);
